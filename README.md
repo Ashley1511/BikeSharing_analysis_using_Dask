@@ -33,6 +33,6 @@ Both available csvs contain the following fields, except that the day.csv does n
 
 
 # AUTHOR
-Camille Chauliac
-Student at IE University
-Master in Big data and Business analytics
+    Camille Chauliac
+    Student at IE University
+    Master in Big data and Business analytics
