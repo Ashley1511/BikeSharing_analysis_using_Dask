@@ -3,7 +3,7 @@
 The objective is to rewrite the Bike Sharing analysis done in the Python for Statistical Programming subject using Dask data structures and ecosystem instead of plain pandas.
 
 
-## DATASETS:
+### DATASETS:
 
 The datasets can be found on Kaggle's website : https://www.kaggle.com/marklvl/bike-sharing-dataset/home .
 
@@ -31,8 +31,48 @@ Both available csvs contain the following fields, except that the day.csv does n
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
+### CONTRIBUTE:
 
-### AUTHOR
-Camille Chauliac
-Student at IE University
-Master in Big data and Business analytics
+* Fork the master repository (https://github.com/camilleCHAU/BikeSharing_analysis_using_Dask.git) to your github remote account
+
+* Clone the master repository to your local machine.
+	git clone https://github.com/camilleCHAU/BikeSharing_analysis_using_Dask.git
+    
+* Go to the local github directory.
+	cd <directoryPath>
+	
+* Add your fork as a remote
+	git remote add <GitHub_UserName> <Forked_repository_URL>
+	
+* Initialize the repository
+	git init
+	
+* Creating a new branch 
+	git checkout -b <branchName>
+	
+* Add/Modify/Remove files in the repository.
+
+* Commit your changes.
+	git add <filePath/fileName>
+	git commit -m <"comment">
+	
+* Push up your changes/branch to your forked repository. 
+	git push <GitHub_UserName> <branchName>
+	
+* Go to your GitHub remote repository and create a pull request.
+
+
+### AUTHOR:
+ - Camille Chauliac
+ - Student at IE University
+ - Master in Big data and Business analytics
+
+### SUPPORT:
+For questions about installation or any other remarks, please find below the email adress of the creator of this repository:
+camille.chauliac@student.ie.edu
+
+### ACKNOWLEDGMENTS:
+
+I would like to thank my 'Advance Python' Professor, Mr. Juan Luis Cano, for his numerous efforts in trying to teach us all the secrets and hidden gems of the Python language. He was the brain behind this assignment and thanks to him, I now understand more about the Dask library, how to use it and how it works.
+
+
