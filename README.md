@@ -31,6 +31,36 @@ Both available csvs contain the following fields, except that the day.csv does n
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
+## CONTRIBUTE:
+
+* Fork the master repository (https://github.com/camilleCHAU/BikeSharing_analysis_using_Dask.git) to your github remote account
+
+* Clone the master repository to your local machine.
+	git clone https://github.com/camilleCHAU/BikeSharing_analysis_using_Dask.git
+    
+* Go to the local github directory.
+	cd <directoryPath>
+	
+* Add your fork as a remote
+	git remote add <GitHub_UserName> <Forked_repository_URL>
+	
+* Initialize the repository
+	git init
+	
+* Creating a new branch 
+	git checkout -b <branchName>
+	
+* Add/Modify/Remove files in the repository.
+
+* Commit your changes.
+	git add <filePath/fileName>
+	git commit -m <"comment">
+	
+* Push up your changes/branch to your forked repository. 
+	git push <GitHub_UserName> <branchName>
+	
+* Go to your GitHub remote repository and create a pull request.
+
 
 ### AUTHOR:
  - Camille Chauliac
