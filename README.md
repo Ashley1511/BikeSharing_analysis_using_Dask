@@ -32,7 +32,13 @@ Both available csvs contain the following fields, except that the day.csv does n
 - cnt: count of total rental bikes including both casual and registered
 
 
-### AUTHOR
-Camille Chauliac
-Student at IE University
-Master in Big data and Business analytics
+### AUTHOR:
+ - Camille Chauliac
+ - Student at IE University
+ - Master in Big data and Business analytics
+
+## SUPPORT:
+For questions about installation or any other remarks, please find below the email adress of the creator of this repository:
+camille.chauliac@student.ie.edu
+
+
