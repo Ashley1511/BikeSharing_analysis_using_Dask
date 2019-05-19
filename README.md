@@ -41,4 +41,8 @@ Both available csvs contain the following fields, except that the day.csv does n
 For questions about installation or any other remarks, please find below the email adress of the creator of this repository:
 camille.chauliac@student.ie.edu
 
+## ACKNOWLEDGMENTS:
+
+I would like to thank my 'Advance Python' Professor, Mr. Juan Luis Cano, for his numerous efforts in trying to teach us all the secrets and hidden gems of the Python language. He was the brain behind this assignment and thanks to him, I now understand more about the Dask library, how to use it and how it works.
+
 
