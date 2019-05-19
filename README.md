@@ -3,7 +3,7 @@
 The objective is to rewrite the Bike Sharing analysis done in the Python for Statistical Programming subject using Dask data structures and ecosystem instead of plain pandas.
 
 
-## DATASETS:
+### DATASETS:
 
 The datasets can be found on Kaggle's website : https://www.kaggle.com/marklvl/bike-sharing-dataset/home .
 
@@ -31,7 +31,7 @@ Both available csvs contain the following fields, except that the day.csv does n
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-## CONTRIBUTE:
+### CONTRIBUTE:
 
 * Fork the master repository (https://github.com/camilleCHAU/BikeSharing_analysis_using_Dask.git) to your github remote account
 
@@ -67,11 +67,11 @@ Both available csvs contain the following fields, except that the day.csv does n
  - Student at IE University
  - Master in Big data and Business analytics
 
-## SUPPORT:
+### SUPPORT:
 For questions about installation or any other remarks, please find below the email adress of the creator of this repository:
 camille.chauliac@student.ie.edu
 
-## ACKNOWLEDGMENTS:
+### ACKNOWLEDGMENTS:
 
 I would like to thank my 'Advance Python' Professor, Mr. Juan Luis Cano, for his numerous efforts in trying to teach us all the secrets and hidden gems of the Python language. He was the brain behind this assignment and thanks to him, I now understand more about the Dask library, how to use it and how it works.
 
